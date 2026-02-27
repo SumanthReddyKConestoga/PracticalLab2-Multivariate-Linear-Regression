@@ -1,9 +1,6 @@
 
 
 ---
-
-# 📘 README.md (Full Professional Version)
-
 ---
 
 # 📊 Practical Lab 2 — Multivariate Regression, Non-Parametric Models & Cross-Validation
