@@ -1,8 +1,20 @@
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-plotly
-statsmodels
-ipykernel
+# Core
+numpy==2.4.2
+pandas==3.0.1
+
+# ML + metrics
+scikit-learn==1.8.0
+scipy==1.17.1
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+plotly==6.5.2
+
+# Statistical utilities (used for richer EDA / diagnostics)
+statsmodels==0.14.6
+
+# Notebook runtime (only if you want others to run the .ipynb easily)
+ipykernel==7.2.0
+notebook==7.5.4
+jupyterlab==4.5.5
